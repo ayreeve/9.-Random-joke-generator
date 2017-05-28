@@ -1,4 +1,4 @@
-# Random quote generator
+# Random joke generator
 * Ajax
 * API
 * JS
